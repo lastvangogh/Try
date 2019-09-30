@@ -10,7 +10,7 @@ using namespce std;
 //服务端类， 用来处理客户端请求
 class Server{
 public:
-	//无参数构造函数
+	// 无参数构造函数
 	Server();
 
 	//初始化服务器端设置

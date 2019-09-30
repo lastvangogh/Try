@@ -15,7 +15,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-//默认服务器端IP地址
+// 默认服务器端IP地址
 #define SERVER_IP "127.0.0.1"
 
 //服务器端口号
